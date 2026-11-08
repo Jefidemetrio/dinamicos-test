@@ -1,0 +1,10 @@
+# Exclude Directus and documentation files
+directus-*.json
+migrations/
+docs/
+
+# Exclude bot logs
+BOT-LOG-*.log
+
+# Exclude seed data
+SEED_DATA.md
